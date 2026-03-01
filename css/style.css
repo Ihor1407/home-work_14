@@ -1,0 +1,11 @@
+.nav__link:hover {
+  cursor: pointer;
+}
+
+.carousel-item img {
+  height: 700px;
+  object-fit: cover;
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */
